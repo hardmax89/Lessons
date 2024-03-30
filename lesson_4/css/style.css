@@ -4,14 +4,13 @@
 @import url("reset.css");
 
 
-body 
-{
+body {
 	font-family: "Proxima Nova Regular", sans-serif;
 	font-weight: 400;
 }
 
 
-h1{
+h1 {
 	color: #2b2929;
 	font-size: 40px;
 	text-align: left;
@@ -23,129 +22,132 @@ h1{
 
 p.main-text-1 {
 	width: 100%;
-		max-width: 1070px;
-		min-height: auto;
-		color: #2b2929;
-		font-size: 16px;
-		font-style: normal;
-		margin-top: 0;
-		text-align: left;
-		font-weight: 400;
-		line-height: 1.875; /* 30/16 */
-		margin-bottom: 10px;
-		letter-spacing: 0;
-		text-transform: none;
+	max-width: 1070px;
+	min-height: auto;
+	color: #2b2929;
+	font-size: 16px;
+	font-style: normal;
+	margin-top: 0;
+	text-align: left;
+	font-weight: 400;
+	line-height: 1.875;
+	/* 30/16 */
+	margin-bottom: 10px;
+	letter-spacing: 0;
+	text-transform: none;
 }
 
-h2{
+h2 {
 	color: #2b2929;
-		font-size: 20px;
-		font-style: normal;
-		margin-top: 0;
-		text-align: left;
-		font-family: "Proxima Nova Regular", sans-serif;
-		font-weight: 600;
-		line-height: 1.4; /* 28/20 */
-		letter-spacing: 0;
-		text-transform: none;
+	font-size: 20px;
+	font-style: normal;
+	margin-top: 0;
+	text-align: left;
+	font-family: "Proxima Nova Regular", sans-serif;
+	font-weight: 600;
+	line-height: 1.4;
+	/* 28/20 */
+	letter-spacing: 0;
+	text-transform: none;
 
 
 }
 
 .main-text-2 {
 	color: #2b2929;
-		font-size: 16px;
-		font-style: normal;
-		margin-top: 0;
-		text-align: left;
-		font-family: "Proxima Nova Regular",sans-serif;
-		font-weight: 400;
-		line-height: 1.875; /* 30/16 */
-		letter-spacing: 0;
-		text-transform: none;
-		max-width: 1070px;
+	font-size: 16px;
+	font-style: normal;
+	margin-top: 0;
+	text-align: left;
+	font-family: "Proxima Nova Regular", sans-serif;
+	font-weight: 400;
+	line-height: 1.875;
+	/* 30/16 */
+	letter-spacing: 0;
+	text-transform: none;
+	max-width: 1070px;
 }
 
 p.list1 {
 	color: #2b2929;
-		font-size: 16px;
-		font-style: normal;
-		font-family: "Proxima Nova Regular", sans-serif;
-		font-weight: 400;
-		line-height: 30px;
-		letter-spacing: 0;
-		text-transform: none;
+	font-size: 16px;
+	font-style: normal;
+	font-family: "Proxima Nova Regular", sans-serif;
+	font-weight: 400;
+	line-height: 30px;
+	letter-spacing: 0;
+	text-transform: none;
 }
 
 .choice-h2 {
 	color: #2b2929;
-		font-size: 40px;
-		text-align: center;
-		font-family: "Proxima Nova Regular", sans-serif;
-		font-weight: 600;
-		line-height: 48px;
-		font-style: normal;
+	font-size: 40px;
+	text-align: center;
+	font-family: "Proxima Nova Regular", sans-serif;
+	font-weight: 600;
+	line-height: 48px;
+	font-style: normal;
 
 }
 
 .choice {
 	color: #2b2929;
-		font-size: 16px;
-		font-style: normal;
-		margin-top: 0;
-		text-align: left;
-		font-family: "Proxima Nova Regular", sans-serif;
-		font-weight: 400;
-		line-height: 30px;
-		margin-bottom: 10px;
-		letter-spacing: 0;
-		text-transform: none;
+	font-size: 16px;
+	font-style: normal;
+	margin-top: 0;
+	text-align: left;
+	font-family: "Proxima Nova Regular", sans-serif;
+	font-weight: 400;
+	line-height: 30px;
+	margin-bottom: 10px;
+	letter-spacing: 0;
+	text-transform: none;
 }
 
 
 h3.transport {
-		color: #10092bcc;
-			font-size: 40px;
-			text-align: center;
-			font-family: "Sedgwick Ave",serif;
-			font-weight: 800;
-			line-height: 48px;
-			font-style: normal;
-			text-decoration: underline;
-			text-shadow:
-			-5px -5px 15px rgba(202, 7, 7, 0.863),
-			2px 5px 10px rgb(38, 63, 173);
+	color: #10092bcc;
+	font-size: 40px;
+	text-align: center;
+	font-family: "Sedgwick Ave", serif;
+	font-weight: 800;
+	line-height: 48px;
+	font-style: normal;
+	text-decoration: underline;
+	text-shadow:
+		-5px -5px 15px rgba(202, 7, 7, 0.863),
+		2px 5px 10px rgb(38, 63, 173);
 }
 
 
- h4 {
+h4 {
 	color: #0c0d13d2;
-		font-size: 25px;
-		text-align: left;
-		font-family: "Merriweather";
-		font-weight: 600;
-		line-height: 48px;
-		font-style: italic;
-		word-spacing: 20px;
-		text-transform: uppercase;
-		text-decoration: line-through;
-		text-decoration-color: rgba(200, 255, 0, 0.651);
-		text-decoration-style: wavy;
-		text-shadow:
-				-15px -5px 15px rgba(184, 38, 140, 0.63);
+	font-size: 25px;
+	text-align: left;
+	font-family: "Merriweather";
+	font-weight: 600;
+	line-height: 48px;
+	font-style: italic;
+	word-spacing: 20px;
+	text-transform: uppercase;
+	text-decoration: line-through;
+	text-decoration-color: rgba(200, 255, 0, 0.651);
+	text-decoration-style: wavy;
+	text-shadow:
+		-15px -5px 15px rgba(184, 38, 140, 0.63);
 }
 
 p.example1 {
 	color: #46a83d;
-		font-size: 20px;
-		font-style: italic;
-		text-align: right;
-		font-family: "Tac One";
-		font-weight: 200;
-		line-height: 30px;
-		letter-spacing: 0;
-		word-spacing: 20px;
-		text-transform: none;
+	font-size: 20px;
+	font-style: italic;
+	text-align: right;
+	font-family: "Tac One";
+	font-weight: 200;
+	line-height: 30px;
+	letter-spacing: 0;
+	word-spacing: 20px;
+	text-transform: none;
 }
 
 p.example2 {
@@ -171,9 +173,9 @@ p.example3 {
 	text-align: center;
 	word-spacing: 25px;
 	text-shadow:
-			-15px -5px 15px rgb(252, 237, 27);
-			text-transform: lowercase;
-	
+		-15px -5px 15px rgb(252, 237, 27);
+	text-transform: lowercase;
+
 }
 
 .example4 {
@@ -184,20 +186,19 @@ p.example3 {
 	font-weight: 300;
 	text-align: left;
 	text-transform: uppercase;
-	line-height: 1.5625;/* 25/16 */
+	line-height: 1.5625;
+	/* 25/16 */
 }
 
 .footer {
-	font-weight: 600;
-	font-family: "Causten", serif;
-		font-size: 28px;
-		text-align: center;
-		letter-spacing: 10px;
-		text-shadow:
-			-5px -5px 15px rgba(173, 202, 7, 0.863),
-			2px 5px 10px rgb(44, 233, 6);
-		text-transform: capitalize;
-		color: rgba(15, 17, 128, 0.952);
+	font-weight: 900;
+	font-family: "Merriweather", sans-serif;
+	font-size: 28px;
+	text-align: center;
+	letter-spacing: 10px;
+	text-shadow:
+		-5px -5px 15px rgba(173, 202, 7, 0.863),
+		2px 5px 10px rgb(44, 233, 6);
+	text-transform: capitalize;
+	color: rgba(15, 17, 128, 0.952);
 }
-
-
