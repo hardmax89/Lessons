@@ -6,8 +6,6 @@
 
 body {
 	font-family: "Proxima Nova", sans-serif;
-	font-weight: 400;
-	text-align: left;
 	color: #2b2929;
 }
 
@@ -22,7 +20,6 @@ p.main-text-1 {
 	width: 100%;
 	max-width: 1070px;
 	min-height: auto;
-	font-size: 16px;
 	line-height: 1.875;	/* 30/16 */
 	margin-bottom: 10px;
 }
@@ -34,14 +31,11 @@ h2 {
 }
 
 .main-text-2 {
-	font-size: 16px;
 	line-height: 1.875;	/* 30/16 */
 	max-width: 1070px;
 }
 
 p.list1 {
-	font-size: 16px;
-	font-style: normal;
 	line-height: 30px;
 }
 
@@ -49,16 +43,12 @@ p.list1 {
 	color: #2b2929;
 	font-size: 40px;
 	text-align: center;
-	font-family: "Proxima Nova", sans-serif;
 	font-weight: 600;
 	line-height: 48px;
 }
 
 .choice {
 	color: #2b2929;
-	font-size: 16px;
-	text-align: left;
-	font-family: "Proxima Nova", sans-serif;
 	line-height: 30px;
 	margin-bottom: 10px;
 }
