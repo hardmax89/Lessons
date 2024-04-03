@@ -82,7 +82,7 @@ p.main-text-1 {
 	margin-bottom: 30px;
 }
 
-p.list1 {
+.list1 {
 	margin-bottom: 20px;
 	padding-left: 47px;
 }
@@ -141,4 +141,12 @@ background-color: rgba(248, 248, 248, 1);
 
 .krovato__img {
 	margin-bottom: 20px;
+}
+.footer {
+		font-family: "Roboto", sans-serif;
+			font-weight: 600;
+			font-size: 30px;
+			text-align: center;
+			text-transform: capitalize;
+			color: #000;
 }
