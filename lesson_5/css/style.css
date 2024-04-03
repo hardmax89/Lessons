@@ -1,0 +1,144 @@
+@import url("fonts.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,regular,500&display=swap");
+@import url("reset.css");
+
+
+.title {
+	font-family: "Roboto", sans-serif;
+	font-weight: 500;
+	font-size: 50px;
+	text-align: center;
+	text-transform: capitalize;
+	color: #000;
+	margin-bottom: 60px;
+}
+
+.centr {
+	text-align: center;
+	background-color: rgba(30, 40, 50, 0.05);
+}
+
+.follow__products {
+	padding: 100px 0px 100px;
+	margin: 0 auto;
+	max-width: 1320px;
+}
+
+.pics {
+	font-size: 0;
+	margin: 0 -12px;
+}
+
+.pic {
+	display: inline-block;
+	padding: 0 12px;
+	margin-bottom: 24px;
+}
+
+.krovato {
+	background-color: rgba(248, 248, 248, 1);
+}
+
+.krovato__choose {
+	font-family: "Proxima Nova", sans-serif;
+	padding: 55px 0px 40px 0px;
+	color: #2b2929;
+	line-height: 1.875;
+	/* 30/16 */
+}
+
+.krovato__conteiner {
+	max-width: 1070px;
+	margin: 0 auto;
+}
+
+.main-text1 {
+	margin-bottom: 40px;
+}
+
+.subtitle {
+	font-size: 40px;
+	font-weight: 600;
+	line-height: 1.20;
+	/* 48/40 */
+	margin-bottom: 40px;
+}
+
+.krovato__choose-img {
+	margin-bottom: 40px;
+}
+
+p.main-text-1 {
+	width: 100%;
+	min-height: auto;
+	margin-bottom: 10px;
+}
+
+.text-h3 {
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 1.4;
+	/* 28/20 */
+	margin-bottom: 30px;
+}
+
+p.list1 {
+	margin-bottom: 20px;
+	padding-left: 47px;
+}
+
+.main-text2 {
+	margin-bottom: 40px;
+}
+
+.krovato__about {
+background-color: rgba(248, 248, 248, 1);
+}
+
+.krovato__block {
+	font-family: "Proxima Nova", sans-serif;
+	font-weight: 400;
+	padding: 55px 0px 40px 0px;
+	color: #2b2929;
+	line-height: 1.875; /* 30/16 */
+}
+
+.block__conteiner {
+	max-width: 1290px;
+	margin: 0 auto;
+}
+
+.krovato_title {
+	font-weight: 600;
+	font-size: 40px;
+	line-height: 1.2;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.krovato__title1 {
+	font-weight: 600;
+	font-size: 26px;
+	line-height: 1.31;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.krovato__items {
+	font-size: 0px;
+
+}
+.krovato__item {
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	margin-right: 30px;
+	max-width: 300px;
+	font-size: 16px;
+}
+.krovato__item-4 {
+	margin-right: 0px;
+}
+
+.krovato__img {
+	margin-bottom: 20px;
+}
