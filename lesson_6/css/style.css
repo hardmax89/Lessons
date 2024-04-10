@@ -139,7 +139,7 @@ p.main-text-1 {
 	padding: 0 15px;
 	margin: 0 auto;
 	font-family: "Quicksand", sans-serif;
-	background: url(../img/Alphabet.png) center no-repeat;
+	background: url(../img/Alphabet.png) 0 0/cover no-repeat;
 	}
 .explore__wrap {
 	margin-left: -66.5px;
