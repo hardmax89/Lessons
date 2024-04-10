@@ -106,6 +106,9 @@
 .krovato__choose-img {
 	margin-bottom: 40px;
 }
+.krovato-img {
+border-radius: 8px 8px 8px 8px;
+}
 
 p.main-text-1 {
 	width: 100%;
@@ -167,7 +170,8 @@ p.main-text-1 {
 		border-radius: 8px;
 		padding: 11px 36.5px;
 		background-color: #fff;
-		background: #fff url(../img/photo.jpg) 5.5% 50%/24px no-repeat;
+		background: #fff url(../img/photo.jpg) 16px 16px no-repeat;
+		background-size: 16px;
 	}
 .content h4 {
 	font-weight: 700;
