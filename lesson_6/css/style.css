@@ -1,0 +1,192 @@
+@import url("fonts.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,regular,500&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Quicksand:300,regular,500,600&display=swap");@import url("reset.css");
+
+.coral {
+	background: url(../img/3.png) left 471px/ 132px no-repeat, url(../img/2.png) right / 195px no-repeat, rgba(30, 40, 50, 0.05);
+	font-family: "Roboto", sans-serif;
+	font-size: 0;
+	padding: 80px 0px 60px 0px;
+}
+.coral__conteiner {
+	max-width: 1256px;
+	padding: 0px 15px;
+	margin: 0 auto;
+}
+.coral__shop {
+	display: inline-block;
+	width: 58%;
+	vertical-align: middle;
+}
+
+.coral__shop p {
+	font-size: 30px;
+	line-height: 183.333333%;	/* 55/30 */
+	margin-bottom: 66px;
+	text-transform: capitalize;
+	margin-right: 20px;
+}
+
+.coral__title {
+	font-size: 74px;
+	font-weight: 300;
+	line-height: 74.324324%;	/* 55/74 */
+	margin-bottom: 50px;
+}
+
+.coral__btn {
+	display: inline-block;
+	background-color: rgb(30, 40, 50);
+	padding: 19px 26px 19px 26px;
+}
+
+.coral__btn span {
+	background: url(../img/v6-icon.png) top left/ 30px no-repeat;
+	font-size: 29px;
+	display: inline-block;
+	color: rgb(255, 255, 255);
+	padding-left: 38px;
+	line-height: 117.241379%; /* 34/29 */
+	text-transform: capitalize;
+	min-height: 30px;
+}
+
+.coral__media {
+	display: inline-block;
+	width: 42%;
+	text-align: right;
+}
+
+.coral__image {
+	display: inline-block;
+	vertical-align: middle;
+	max-width: 424px;
+	border-radius: 35% 0 35% 0;
+	box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25), -1px -1px 4px rgba(0, 0, 0, 0.25);
+	/* border: 2px solid rgba(0, 0, 0, 0.25); тест1 */ 
+	/* outline: 1px solid rgba(0, 0, 0, 0.25); тест2 */
+}
+
+.coral__image img {
+	border-radius: 35% 0 35% 0;
+	max-width: 100%;
+	margin: -20px 18px 20px -18px;
+}
+
+
+.krovato {
+	background-color: rgba(248, 248, 248, 1);
+}
+
+.krovato__choose {
+	font-family: "Proxima Nova", sans-serif;
+	padding: 55px 0px 40px 0px;
+	color: #2b2929;
+	line-height: 1.875;
+	/* 30/16 */
+}
+
+.krovato__conteiner {
+	max-width: 1070px;
+	margin: 0 auto;
+}
+
+.main-text1 {
+	margin-bottom: 40px;
+}
+
+.subtitle {
+	font-size: 40px;
+	font-weight: 600;
+	line-height: 1.20;
+	/* 48/40 */
+	margin-bottom: 40px;
+}
+
+.krovato__choose-img {
+	margin-bottom: 40px;
+}
+
+p.main-text-1 {
+	width: 100%;
+	min-height: auto;
+	margin-bottom: 10px;
+}
+
+.text-h3 {
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 1.4;
+	/* 28/20 */
+	margin-bottom: 30px;
+}
+
+.list1 {
+	margin-bottom: 20px;
+	padding-left: 47px;
+	background: url("../img/mark.png") 0 0 / 32px no-repeat;
+}
+
+.main-text2 {
+	margin-bottom: 40px;
+}
+
+.footer__explore {
+	background: url(../img/bg3.png) 0 0/cover no-repeat;
+}
+.explore__container {
+	max-width: 1310px;
+	padding: 0 15px;
+	margin: 0 auto;
+	font-family: "Quicksand", sans-serif;
+	background: url(../img/Alphabet.png) center no-repeat;
+	}
+.explore__wrap {
+	margin-left: -66.5px;
+	margin-right: -66.5px;
+	font-size: 0;
+	
+}
+.content__wrap {
+	display: inline-block;
+	padding-left: 66.5px;
+	padding-right: 66.5px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 16px;
+	vertical-align: middle;
+}
+.content {
+	max-width: 600px;
+}
+.explore-button{
+		font-weight: 700;
+		font-size: 16px;
+		line-height: 1.5625;
+		color: #0d1216;
+		border-radius: 8px;
+		padding: 11px 36.5px;
+		background-color: #fff;
+		background: #fff url(../img/photo.jpg) 5.5% 50%/24px no-repeat;
+	}
+.content h4 {
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 120%;
+	color: #fff;
+	margin-bottom: 24px;
+}
+.content p {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 160%;
+	color: #fff;
+	margin-bottom: 24px;
+}
+
+.img-wrap {
+	display: inline-block;
+	max-width: 100%;
+	padding: 0 66.5px;
+	vertical-align: middle;
+}
